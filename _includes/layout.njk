@@ -12,6 +12,11 @@
     <header>
           {% include "nav.html" %}
     </header>
+    {% if title=="Home" %}
+        <div class="hero">
+            <h1>{{ title }}</h1>
+        </div>
+    {% endif %}
     
     <h1>{{title}}</h1>
     <div class="wrapper">
