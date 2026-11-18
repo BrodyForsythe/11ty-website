@@ -1,6 +1,6 @@
 ---
 layout: layout.njk
-title: About
+title: Facts
 ---
 
 # About this page
