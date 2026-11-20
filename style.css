@@ -1,6 +1,6 @@
 body {
-    color: #030038;
-    background-color: #617AFF;
+    color: #2C35AB;
+    background-color: #C0CFFF;
 }
 .mm1 {
     padding: 0px 50px;
@@ -38,4 +38,21 @@ body {
 }
 .mega4 {
     padding: 0px 50px;
+}
+
+.faninfo {
+    padding: 5px 50px;
+}
+
+header { 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav {
+    list-style: none;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 2em;
 }
